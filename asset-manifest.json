@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hosttest/static/css/main.2c3bf90b.css",
-    "main.js": "/hosttest/static/js/main.345e458a.js",
-    "static/media/arian-darvishi-wh-RPfR_3_M-unsplash.jpg": "/hosttest/static/media/arian-darvishi-wh-RPfR_3_M-unsplash.8a623d4bd31a5151f762.jpg",
-    "static/media/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg": "/hosttest/static/media/lorenzo-herrera-p0j-mE6mGo4-unsplash.c393076f14da75158b2d.jpg",
-    "static/media/lee-campbell-DtDlVpy-vvQ-unsplash.jpg": "/hosttest/static/media/lee-campbell-DtDlVpy-vvQ-unsplash.c3791ec1d46a63d9efb3.jpg",
-    "index.html": "/hosttest/index.html",
-    "main.2c3bf90b.css.map": "/hosttest/static/css/main.2c3bf90b.css.map",
-    "main.345e458a.js.map": "/hosttest/static/js/main.345e458a.js.map"
+    "main.css": "/static/css/main.2c3bf90b.css",
+    "main.js": "/static/js/main.ccb13484.js",
+    "static/media/arian-darvishi-wh-RPfR_3_M-unsplash.jpg": "/static/media/arian-darvishi-wh-RPfR_3_M-unsplash.8a623d4bd31a5151f762.jpg",
+    "static/media/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg": "/static/media/lorenzo-herrera-p0j-mE6mGo4-unsplash.c393076f14da75158b2d.jpg",
+    "static/media/lee-campbell-DtDlVpy-vvQ-unsplash.jpg": "/static/media/lee-campbell-DtDlVpy-vvQ-unsplash.c3791ec1d46a63d9efb3.jpg",
+    "index.html": "/index.html",
+    "main.2c3bf90b.css.map": "/static/css/main.2c3bf90b.css.map",
+    "main.ccb13484.js.map": "/static/js/main.ccb13484.js.map"
   },
   "entrypoints": [
     "static/css/main.2c3bf90b.css",
-    "static/js/main.345e458a.js"
+    "static/js/main.ccb13484.js"
   ]
 }
